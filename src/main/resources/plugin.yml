@@ -1,0 +1,8 @@
+name: Dayo
+version: ${project.version}
+main: net.teamfruit.dayo.Dayo
+api-version: 1.15
+authors: [Kamesuta]
+permissions:
+  dayo:
+    default: true
